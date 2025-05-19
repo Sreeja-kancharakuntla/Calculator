@@ -24,8 +24,9 @@ A simple, responsive web-based calculator built using HTML, CSS, and JavaScript.
 - **CSS** – Styling and layout
 - **JavaScript** – Core logic and interactivity
 
-## Screenshot
+## Access my project at
 
+https://calculator-sreeja.netlify.app/
 
 
 ## Getting Started
